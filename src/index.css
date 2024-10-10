@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn:hover {
+    @apply text-neutral-transwhite bg-transparent border-2 border-neutral-transwhite
+}
